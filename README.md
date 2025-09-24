@@ -1,6 +1,6 @@
 <div>
   <h1>Click on the GitHub icon below to view the project online.</h1>
-  <a href="https://github.com/hamiparsa/apple-clone">
+  <a href="https://glittering-cajeta-1c0bb2.netlify.app/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
