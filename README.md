@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div>
+  <h1>Click on the GitHub icon below to view the project online.</h1>
+  <a href="https://github.com/hamiparsa/apple-clone">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+# Apple Store Clone 🍏💻
 
-First, run the development server:
+Apple Store Clone is a modern front-end project replicating Apple's official website experience. Users can explore products, view detailed product pages, and interact with an animated, responsive UI built with cutting-edge front-end technologies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<ul>
+  <li>
+    Interactive product pages with image galleries and animations
+  </li>
+  <li>
+    Responsive navigation and category sections
+  </li>
+  <li>
+    Frequently Asked Questions (FAQ) section with toggleable answers
+  </li>
+  <li>
+    Smooth scroll animations for product images and sections
+  </li>
+  <li>
+    Fully responsive design for desktop and mobile devices
+  </li>
+  <li>
+    Reusable React components with TypeScript for type safety
+  </li>
+  <li>
+    Footer section with legal links and shopping info
+  </li>
+</ul>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Technologies Used:
 
-To learn more about Next.js, take a look at the following resources:
+<ul>
+  <li>
+    React for building UI components
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+  <li>
+    Next.js for routing and server-side rendering
+    <img width='20px' src='https://skillicons.dev/icons?i=next'>
+  </li>
+  <li>
+    TypeScript for type safety
+    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
+  </li>
+  <li>
+    Tailwind CSS for fast and responsive styling
+    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
+  </li>
+  <li>
+    Framer Motion for smooth animations
+    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
+  </li>
+  <li>
+    React Icons for scalable vector icons
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+</ul>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Description:
 
-## Deploy on Vercel
+This Apple Store Clone replicates the look and feel of Apple's official website while showcasing advanced front-end skills. Users can:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Browse Apple products such as Mac, iPad, iPhone, Watch, AirPods, and Apple TV
+- View product image galleries with smooth scroll animations
+- Read product descriptions and view interactive sections
+- Navigate categories with animated cards
+- Check FAQs with toggleable answers
+- Experience a fully responsive and modern design on desktop and mobile
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project demonstrates:
+
+- Dynamic product pages with reusable React components
+- Smooth animations using Framer Motion and CSS transitions
+- Responsive layouts using Tailwind CSS
+- Interactive UI elements and user-friendly experience
+
+---
+
+<h1 align="center">Project picture 🖼️</h1>
+
+<div align="center">
+  <img src="/pic1.png" width="700px" />
+  <br/><br/>
+  <img src="/pic2.png" width="700px" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="/pic3.png" width="700px" />
+  <br/><br/>
+  <img src="/pic4.png" width="700px" />
+</div>
